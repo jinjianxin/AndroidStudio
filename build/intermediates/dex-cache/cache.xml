@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jjx/AndroidStudioWorkspace/AndroidStudio/tabactivity/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/jjx/AndroidStudioWorkspace/AndroidStudio/tabactivity/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-a78d31411e239073580b9bcbc44cdd71b3499b88.jar" />
+    </item>
+    <item
+        jar="/home/jjx/AndroidStudioWorkspace/AndroidStudio/tabactivity/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/jjx/AndroidStudioWorkspace/AndroidStudio/tabactivity/build/intermediates/pre-dexed/debug/classes-6fcfc0f5640505f00fd3fcb1d0d8f4b5d1a1b597.jar" />
+    </item>
+    <item
+        jar="/home/jjx/AndroidStudioWorkspace/AndroidPm/tabactivity/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/jjx/AndroidStudioWorkspace/AndroidPm/tabactivity/build/intermediates/pre-dexed/debug/classes-81c638fccf96b09a649e4be0877fcc84513ddc91.jar" />
+    </item>
+    <item
+        jar="/home/jjx/AndroidStudioWorkspace/AndroidStudio/swipelistview/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/jjx/AndroidStudioWorkspace/AndroidStudio/swipelistview/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-d2191884f742e052a10511e435e0eaf1ed848a3a.jar" />
+    </item>
+    <item
+        jar="/home/jjx/AndroidStudioWorkspace/AndroidStudio/swipelistview/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/jjx/AndroidStudioWorkspace/AndroidStudio/swipelistview/build/intermediates/pre-dexed/debug/classes-08f7d23e415fad3f482daa53392199599ca59111.jar" />
+    </item>
+    <item
+        jar="/home/jjx/AndroidStudioWorkspace/AndroidPm/swipelistview/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/jjx/AndroidStudioWorkspace/AndroidPm/swipelistview/build/intermediates/pre-dexed/debug/classes-bbe6ea74d5383ef6ab178219ed0f5bdb83ce613e.jar" />
+    </item>
+    <item
+        jar="/home/jjx/AndroidStudioWorkspace/AndroidStudio/swipelistview/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/jjx/AndroidStudioWorkspace/AndroidStudio/swipelistview/build/intermediates/pre-dexed/debug/classes-043fedccd53e67f1d09ef375d15de8b648dbf589.jar" />
+    </item>
+    <item
+        jar="/home/jjx/AndroidStudioWorkspace/AndroidStudio/swipelistview/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/home/jjx/AndroidStudioWorkspace/AndroidStudio/swipelistview/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0-465a259ee0271706c291b2901729c079e942a188.jar" />
+    </item>
+    <item
+        jar="/home/jjx/AndroidStudioWorkspace/AndroidPm/swipelistview/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/home/jjx/AndroidStudioWorkspace/AndroidPm/swipelistview/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0-528e0dc50103d3ad82f9d4073680177484264bec.jar" />
+    </item>
+    <item
+        jar="/home/jjx/AndroidStudioWorkspace/AndroidPm/swipelistview/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/jjx/AndroidStudioWorkspace/AndroidPm/swipelistview/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-5f18a3471e44402ccf6a9b5bb285f22059edb274.jar" />
+    </item>
+    <item
+        jar="/home/jjx/AndroidStudioWorkspace/AndroidPm/tabactivity/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/jjx/AndroidStudioWorkspace/AndroidPm/tabactivity/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-9212c8182d6336f6911411955a1fad14af54fc1b.jar" />
+    </item>
+    <item
+        jar="/home/jjx/AndroidStudioWorkspace/AndroidStudio/tabactivity/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/jjx/AndroidStudioWorkspace/AndroidStudio/tabactivity/build/intermediates/pre-dexed/debug/classes-10729b102b9ba565b7add5c68181811076bfa95c.jar" />
+    </item>
+    <item
+        jar="/home/jjx/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/jjx/AndroidStudioWorkspace/AndroidPm/tabactivity/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-e050b4ee50e451759c8356615b55e4eed5e3422e.jar" />
+    </item>
+    <item
+        jar="/home/jjx/AndroidStudioWorkspace/AndroidPm/tabactivity/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/jjx/AndroidStudioWorkspace/AndroidPm/tabactivity/build/intermediates/pre-dexed/debug/classes-daacedd2479eb381c59249bc28e32ea0d3eb26a2.jar" />
+    </item>
+    <item
+        jar="/home/jjx/AndroidStudioWorkspace/AndroidPm/swipelistview/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/jjx/AndroidStudioWorkspace/AndroidPm/swipelistview/build/intermediates/pre-dexed/debug/classes-8dbe4290424e3d1377d290596bf3acb6e0d0ee53.jar" />
+    </item>
+
+</items>

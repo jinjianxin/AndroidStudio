@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidStudio.iml" filepath="$PROJECT_DIR$/AndroidStudio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swipelistview/swipelistview.iml" filepath="$PROJECT_DIR$/swipelistview/swipelistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tabactivity/tabactivity.iml" filepath="$PROJECT_DIR$/tabactivity/tabactivity.iml" />
+    </modules>
+  </component>
+</project>
+
